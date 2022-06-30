@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hk-mbah-ompong.github.io/senin-2/sitemap.xml
